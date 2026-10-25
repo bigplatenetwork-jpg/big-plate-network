@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="BPN mark">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4dc91"/><stop offset=".5" stop-color="#d8b45a"/><stop offset="1" stop-color="#8d671b"/></linearGradient></defs>
+  <circle cx="50" cy="50" r="45" fill="#101010" stroke="url(#g)" stroke-width="2.5"/>
+  <path d="M16 66 Q45 82 83 56" fill="none" stroke="#c52b22" stroke-width="5" stroke-linecap="round"/>
+  <text x="50" y="56" text-anchor="middle" font-family="Arial,sans-serif" font-size="29" font-weight="900" letter-spacing="-2" fill="url(#g)">BPN</text>
+  <path d="M25 23 Q36 12 48 20 M62 17 Q77 22 81 35" fill="none" stroke="#d8b45a" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
